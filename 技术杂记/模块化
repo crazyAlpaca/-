@@ -1,0 +1,20 @@
+#模块化
+
+模块化有很多种规范，CommonJs、Amd、Es6
+
+## CommonJs:
+
+* npm发布的大多数模块都采用CommonJs规范
+* 不能在浏览器运行
+    
+    ### npm大多数模块都是commonJs的实现
+    
+
+## AMD
+
+* 异步加载依赖
+
+ ### requirejs 是规范的一种实现
+ 
+ 
+
